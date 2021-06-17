@@ -1,0 +1,16 @@
+---
+title: Hello SWC from Nick!
+author: Nick L
+date: '2021-06-17'
+slug: intro-swc
+categories:
+  - R
+tags:
+  - blogdown
+---
+My content's all here below the YAML header!
+
+Everyone loves iris, right?
+```{r}
+hist(iris$Sepal.Length)
+```
